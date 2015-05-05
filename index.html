@@ -10,23 +10,23 @@
 
 
 
-<link rel="canonical" href="">
+<link rel="canonical" href="http://localhost:8000">
         <meta name="author" content="TheScienceHobbyist" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="The Science Hobbyist" />
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="The Science Hobbyist"/>
-        <meta property="og:url" content=""/>
+        <meta property="og:url" content="http://localhost:8000"/>
         <meta property="og:description" content="The Science Hobbyist"/>
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="http://localhost:8000/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="http://localhost:8000/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="/theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+    <link href="http://localhost:8000/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://localhost:8000/theme/css/style.css" type="text/css"/>
 
 
 </head>
@@ -41,17 +41,20 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="/" class="navbar-brand">
+            <a href="http://localhost:8000/" class="navbar-brand">
 The Science Hobbyist            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                         <li >
-                            <a href="/category/programming.html">Programming</a>
+                            <a href="http://localhost:8000/category/astronomy.html">Astronomy</a>
+                        </li>
+                        <li >
+                            <a href="http://localhost:8000/category/programming.html">Programming</a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+              <li><a href="http://localhost:8000/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -60,7 +63,7 @@ The Science Hobbyist            </a>
 <!-- Banner -->
 <style>
 	#banner{
-	    background-image:url("/images/banner.png");
+	    background-image:url("http://localhost:8000/images/banner.png");
 	}
 </style>
 
@@ -76,13 +79,48 @@ The Science Hobbyist            </a>
         <div class="col-sm-9">
 
             <article>
-                <h2><a href="/arduino-temp-sensor.html">Arduino Programming</a></h2>
+                <h2><a href="http://localhost:8000/house-monitor.html">House Monitor</a></h2>
+                <div class="summary"><p>Summary: Building a house monitor with python, openCV, and cloud storage.</p>
+<p>I wanted an easy way to check on my house when I was away, and since it can get cold in the winter I also wanted to keep track of the house temperature.</p>
+<p>I found that the simplest way to so this was to:</p>
+<ol>
+<li>capture images of a room in my house,</li>
+<li>read the temperature of the house,</li>
+<li>add the time and temperature to the image as text, and</li>
+<li>save the image to my cloud synced folder that I can view when I am away.</li>
+</ol>
+<p>I have an Arduino ...</p>
+                    <a class="btn btn-default btn-xs" href="http://localhost:8000/house-monitor.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://localhost:8000/vlf-solar-monitor.html">VLF Solar Monitor</a></h2>
+                <div class="summary"><p>Summary: Building a VLF solar monitor</p>
+<p>I am in the process of building a VLF solar monitor based on <a href="http://www.aavso.org/improved-gyrator-tuned-vlf-receiver)" title="AAVSO">the gyrator II from the AAVSO.</a></p>
+                    <a class="btn btn-default btn-xs" href="http://localhost:8000/vlf-solar-monitor.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="http://localhost:8000/arduino-temp-sensor.html">Arduino Programming</a></h2>
                 <div class="summary"><p>Summary: Getting the arduino to read the temperature</p>
 <p>My Arduino has been sitting on my desk for some time and I thought it
 was about time to get it working again. I figured I would get it to do something
 simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM35 sensor</a>.</p>
-<p>My setup ...</p>
-                    <a class="btn btn-default btn-xs" href="/arduino-temp-sensor.html">more ...</a>
+<p>My setup consists of:</p>
+<ol>
+<li>An <a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove">Arduino Duemilenove</a>,</li>
+<li>An <a href="http://www.ti.com/product/lm35">LM35</a> connected to the Arduino</li>
+<li>A Computer running <a href="http://www.linuxmint.com">Linux Mint</a>,</li>
+<li>An account at <a href="http://www.thingspeak.com">ThingSpeak</a> for storing and plotting the data.</li>
+</ol>
+<h2>The Arduino</h2>
+<p>To get the temperature reading from the LM35 I programmed the arduino to:</p>
+<ol>
+<li>Read from the analog port (A0).</li>
+<li>Convert the 0-1023 ...</li></ol>
+                    <a class="btn btn-default btn-xs" href="http://localhost:8000/arduino-temp-sensor.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -92,8 +130,8 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
             <aside>
 <div id="aboutme">
     <p>
-        <strong>About TheScienceHobbyist</strong><br/>
-        Programming, building, star gazing, cycling, and the classical guitar.
+        <strong>About <a href="mailto:thesciencehobbyist@gmail.com">TheScienceHobbyist</a></strong><br/>
+        Programming, designing, astronomy, cycling, and the classical guitar.
     </p>
 </div>
 <section class="well well-sm">
@@ -106,21 +144,31 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
 
 
 
-            <li class="list-group-item"><a href="/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+            <li class="list-group-item"><a href="http://localhost:8000/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                 <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-4">
-                        <a href="/tag/python.html">
-                            python
+                    <li class="list-group-item tag-1">
+                        <a href="http://localhost:8000/tag/electronics.html">
+                            Electronics
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://localhost:8000/tag/python.html">
+                            Python
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="/tag/thingspeak.html">
-                            ThingSpeak
+                        <a href="http://localhost:8000/tag/astronomy.html">
+                            Astronomy
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="/tag/arduino.html">
+                        <a href="http://localhost:8000/tag/arduino.html">
                             Arduino
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://localhost:8000/tag/thingspeak.html">
+                            ThingSpeak
                         </a>
                     </li>
                 </ul>
@@ -149,23 +197,24 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2015 TheScienceHobbyist
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+    <!--     <div class="col-xs-10">&copy; 2015 TheScienceHobbyist thesciencehobbyist@gmail.com -->
+        <div class="col-xs-10">&copy; 2015 TheScienceHobbyist | <a href="mailto:thesciencehobbyist@gmail.com">Email me!</a> |
+            Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a> |
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a> |
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
          <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
    </div>
 </footer>
-<script src="/theme/js/jquery.min.js"></script>
+<script src="http://localhost:8000/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/theme/js/bootstrap.min.js"></script>
+<script src="http://localhost:8000/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="/theme/js/respond.min.js"></script>
+<script src="http://localhost:8000/theme/js/respond.min.js"></script>
 
-    <script src="/theme/js/bodypadding.js"></script>
+    <script src="http://localhost:8000/theme/js/bodypadding.js"></script>
 
 </body>
 </html>

@@ -10,17 +10,17 @@
 
 
 
-<link rel="canonical" href="/arduino-temp-sensor.html">
+<link rel="canonical" href="http://localhost:8000/arduino-temp-sensor.html">
 
         <meta name="author" content="TheScienceHobbyist" />
         <meta name="keywords" content="Arduino,python,ThingSpeak" />
-        <meta name="description" content="Summary: Getting the arduino to read the temperature My Arduino has been sitting on my desk for some time and I thought it was about time to get it working again. I figured I would get it to do something simple: read the temperature from an LM35 sensor. My setup ..." />
+        <meta name="description" content="Summary: Getting the arduino to read the temperature My Arduino has been sitting on my desk for some time and I thought it was about time to get it working again. I figured I would get it to do something simple: read the temperature from an LM35 sensor. My setup consists of: An Arduino Duemilenove, An LM35 connected to the Arduino A Computer running Linux Mint, An account at ThingSpeak for storing and plotting the data. The Arduino To get the temperature reading from the LM35 I programmed the arduino to: Read from the analog port (A0). Convert the 0-1023 ..." />
 
         <meta property="og:site_name" content="The Science Hobbyist" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="Arduino Programming"/>
-        <meta property="og:url" content="/arduino-temp-sensor.html"/>
-        <meta property="og:description" content="Summary: Getting the arduino to read the temperature My Arduino has been sitting on my desk for some time and I thought it was about time to get it working again. I figured I would get it to do something simple: read the temperature from an LM35 sensor. My setup ..."/>
+        <meta property="og:url" content="http://localhost:8000/arduino-temp-sensor.html"/>
+        <meta property="og:description" content="Summary: Getting the arduino to read the temperature My Arduino has been sitting on my desk for some time and I thought it was about time to get it working again. I figured I would get it to do something simple: read the temperature from an LM35 sensor. My setup consists of: An Arduino Duemilenove, An LM35 connected to the Arduino A Computer running Linux Mint, An account at ThingSpeak for storing and plotting the data. The Arduino To get the temperature reading from the LM35 I programmed the arduino to: Read from the analog port (A0). Convert the 0-1023 ..."/>
         <meta property="article:published_time" content="2015-03-17" />
             <meta property="article:section" content="Programming" />
             <meta property="article:tag" content="Arduino" />
@@ -30,11 +30,11 @@
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="http://localhost:8000/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="http://localhost:8000/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="/theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+    <link href="http://localhost:8000/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://localhost:8000/theme/css/style.css" type="text/css"/>
 
 
 </head>
@@ -49,17 +49,20 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="/" class="navbar-brand">
+            <a href="http://localhost:8000/" class="navbar-brand">
 The Science Hobbyist            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                        <li >
+                            <a href="http://localhost:8000/category/astronomy.html">Astronomy</a>
+                        </li>
                         <li class="active">
-                            <a href="/category/programming.html">Programming</a>
+                            <a href="http://localhost:8000/category/programming.html">Programming</a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+              <li><a href="http://localhost:8000/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -75,7 +78,7 @@ The Science Hobbyist            </a>
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="/arduino-temp-sensor.html"
+                    <a href="http://localhost:8000/arduino-temp-sensor.html"
                        rel="bookmark"
                        title="Permalink to Arduino Programming">
                         Arduino Programming
@@ -88,17 +91,17 @@ The Science Hobbyist            </a>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2015-03-17T00:00:00-07:00"> Tue 17 March 2015</time>
+        <i class="fa fa-calendar"></i><time datetime="2015-03-17T10:00:00-07:00"> March 17, 2015</time>
     </span>
 
 
 
 <span class="label label-default">Tags</span>
-	<a href="/tag/arduino.html">Arduino</a>
+	<a href="http://localhost:8000/tag/arduino.html">Arduino</a>
         /
-	<a href="/tag/python.html">python</a>
+	<a href="http://localhost:8000/tag/python.html">python</a>
         /
-	<a href="/tag/thingspeak.html">ThingSpeak</a>
+	<a href="http://localhost:8000/tag/thingspeak.html">ThingSpeak</a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
@@ -113,7 +116,7 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
 <li>A Computer running <a href="http://www.linuxmint.com">Linux Mint</a>,</li>
 <li>An account at <a href="http://www.thingspeak.com">ThingSpeak</a> for storing and plotting the data.</li>
 </ol>
-<h1>The Arduino</h1>
+<h2>The Arduino</h2>
 <p>To get the temperature reading from the LM35 I programmed the arduino to:</p>
 <ol>
 <li>Read from the analog port (A0).</li>
@@ -143,7 +146,7 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
       <span class="o">//</span> <span class="n">read</span> <span class="n">the</span> <span class="n">voltage</span> <span class="n">from</span> <span class="n">the</span> <span class="n">LM35</span>
       <span class="n">inputValue</span> <span class="o">=</span> <span class="n">analogRead</span><span class="p">(</span><span class="n">inputPin</span><span class="p">);</span>
 
-      <span class="o">//</span><span class="n">map</span> <span class="n">the</span> <span class="n">analog</span> <span class="n">reading</span> <span class="n">of</span> <span class="n">the</span> <span class="n">LM35</span> <span class="n">based</span> <span class="n">on</span> <span class="n">a</span> <span class="n">Vs</span><span class="o">:</span> <span class="m">5</span><span class="n">V</span> <span class="n">and</span> <span class="n">Vin</span><span class="o">:</span> <span class="m">10</span><span class="n">mV</span><span class="o">/</span><span class="n">C</span> 
+      <span class="o">//</span><span class="n">map</span> <span class="n">the</span> <span class="n">analog</span> <span class="n">reading</span> <span class="n">of</span> <span class="n">the</span> <span class="n">LM35</span> <span class="n">based</span> <span class="n">on</span> <span class="n">a</span> <span class="n">Vs</span><span class="o">:</span> <span class="m">5</span><span class="n">V</span> <span class="n">and</span> <span class="n">Vin</span><span class="o">:</span> <span class="m">10</span><span class="n">mV</span><span class="o">/</span><span class="n">C</span>
       <span class="n">temperature</span><span class="o">=</span><span class="p">(</span><span class="k">float</span><span class="p">(</span><span class="n">inputValue</span><span class="p">)</span><span class="o">/</span><span class="m">1023</span><span class="o">.</span><span class="m">0</span><span class="p">)</span><span class="o">*</span><span class="m">500</span><span class="o">.</span><span class="m">0</span><span class="p">;</span>
       <span class="o">//</span><span class="n">print</span> <span class="n">to</span> <span class="n">USB</span>
       <span class="n">Serial</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="s2">&quot;Temperature: &quot;</span><span class="p">);</span>
@@ -160,7 +163,7 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
 
 <h1>Read the Arduino output and send to ThingSpeak</h1>
 <p>The output from the Arduino was read by a python script on my laptop. It received the temperature
- from the Arduino and then posted it to my account at <a href="http://www.thingspeak.com">ThingSpeak</a>. You could just as easily write the 
+ from the Arduino and then posted it to my account at <a href="http://www.thingspeak.com">ThingSpeak</a>. You could just as easily write the
  temperatures to a file, but I like how easy it is to get a nice chart from ThingSpeak.</p>
 <div class="highlight"><pre>    <span class="c">#!/usr/bin/env python</span>
     <span class="c"># -*- coding: utf-8 -*-</span>
@@ -182,7 +185,7 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
     <span class="n">config</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="s">&#39;config.cfg&#39;</span><span class="p">)</span>
     <span class="n">api_key</span> <span class="o">=</span> <span class="n">config</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">&#39;default&#39;</span><span class="p">,</span><span class="s">&#39;api_key&#39;</span><span class="p">)</span>
 
-    <span class="c">#Search pattern for the temperature value   </span>
+    <span class="c">#Search pattern for the temperature value</span>
     <span class="n">dataForm</span> <span class="o">=</span> <span class="s">r&#39;Temperature: (\d+\.\d*)&#39;</span>
     <span class="n">repeat</span> <span class="o">=</span> <span class="bp">True</span>
 
@@ -191,13 +194,13 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
     <span class="n">ser</span> <span class="o">=</span> <span class="n">serial</span><span class="o">.</span><span class="n">Serial</span><span class="p">(</span><span class="s">&#39;/dev/ttyUSB0&#39;</span><span class="p">,</span> <span class="mi">9600</span><span class="p">,</span> <span class="n">timeout</span><span class="o">=</span><span class="bp">None</span><span class="p">)</span>
 
     <span class="k">while</span><span class="p">(</span><span class="n">repeat</span><span class="p">):</span>
-    <span class="c">#read in the temperature from the Arduino   </span>
+    <span class="c">#read in the temperature from the Arduino</span>
         <span class="n">dataLine</span><span class="o">=</span><span class="n">ser</span><span class="o">.</span><span class="n">readline</span><span class="p">()</span>
 
         <span class="k">if</span> <span class="n">dataLine</span><span class="p">:</span> <span class="c">#if the reading was successful</span>
             <span class="n">temperature</span><span class="o">=</span><span class="n">re</span><span class="o">.</span><span class="n">search</span><span class="p">(</span><span class="n">dataForm</span><span class="p">,</span><span class="n">dataLine</span><span class="p">)</span> <span class="c">#extract the temperature from the reading</span>
             <span class="k">if</span> <span class="n">temperature</span><span class="p">:</span>
-                <span class="k">print</span> <span class="n">temperature</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span> 
+                <span class="k">print</span> <span class="n">temperature</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
                 <span class="n">repeat</span><span class="o">=</span><span class="bp">False</span>
                 <span class="n">response</span> <span class="o">=</span> <span class="n">sendToThingSpeak</span><span class="p">(</span><span class="n">temperature</span><span class="p">,</span> <span class="n">api_key</span><span class="p">)</span>
                 <span class="k">print</span> <span class="n">response</span>
@@ -211,8 +214,8 @@ simple: read the temperature from an <a href="http://www.ti.com/product/lm35">LM
 </pre></div>
 
 
-<p>I used crontab to run the python script every 20 minutes. Since I used a config file to keep my 
-api_key I had to get crontab cd into the python scripts directory then run the script. As well since the script 
+<p>I used crontab to run the python script every 20 minutes. Since I used a config file to keep my
+api_key I had to get crontab cd into the python scripts directory then run the script. As well since the script
 prints output, the output needs to be directed to a log file.</p>
 <div class="highlight"><pre>crontab
 
@@ -237,8 +240,8 @@ prints output, the output needs to be directed to a log file.</p>
             <aside>
 <div id="aboutme">
     <p>
-        <strong>About TheScienceHobbyist</strong><br/>
-        Programming, building, star gazing, cycling, and the classical guitar.
+        <strong>About <a href="mailto:thesciencehobbyist@gmail.com">TheScienceHobbyist</a></strong><br/>
+        Programming, designing, astronomy, cycling, and the classical guitar.
     </p>
 </div>
 <section class="well well-sm">
@@ -251,21 +254,31 @@ prints output, the output needs to be directed to a log file.</p>
 
 
 
-            <li class="list-group-item"><a href="/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+            <li class="list-group-item"><a href="http://localhost:8000/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                 <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-4">
-                        <a href="/tag/python.html">
-                            python
+                    <li class="list-group-item tag-1">
+                        <a href="http://localhost:8000/tag/electronics.html">
+                            Electronics
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://localhost:8000/tag/python.html">
+                            Python
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="/tag/thingspeak.html">
-                            ThingSpeak
+                        <a href="http://localhost:8000/tag/astronomy.html">
+                            Astronomy
                         </a>
                     </li>
                     <li class="list-group-item tag-4">
-                        <a href="/tag/arduino.html">
+                        <a href="http://localhost:8000/tag/arduino.html">
                             Arduino
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://localhost:8000/tag/thingspeak.html">
+                            ThingSpeak
                         </a>
                     </li>
                 </ul>
@@ -294,23 +307,24 @@ prints output, the output needs to be directed to a log file.</p>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2015 TheScienceHobbyist
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+    <!--     <div class="col-xs-10">&copy; 2015 TheScienceHobbyist thesciencehobbyist@gmail.com -->
+        <div class="col-xs-10">&copy; 2015 TheScienceHobbyist | <a href="mailto:thesciencehobbyist@gmail.com">Email me!</a> |
+            Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a> |
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a> |
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
          <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
    </div>
 </footer>
-<script src="/theme/js/jquery.min.js"></script>
+<script src="http://localhost:8000/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/theme/js/bootstrap.min.js"></script>
+<script src="http://localhost:8000/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="/theme/js/respond.min.js"></script>
+<script src="http://localhost:8000/theme/js/respond.min.js"></script>
 
-    <script src="/theme/js/bodypadding.js"></script>
+    <script src="http://localhost:8000/theme/js/bodypadding.js"></script>
 
 </body>
 </html>
