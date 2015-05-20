@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Science Hobbyist</title><link href="https://jmollins.github.io/" rel="alternate"></link><link href="https://jmollins.github.io/feeds/programming.atom.xml" rel="self"></link><id>https://jmollins.github.io/</id><updated>2015-05-02T22:00:00-07:00</updated><entry><title>House Monitor</title><link href="https://jmollins.github.io/house-monitor.html" rel="alternate"></link><updated>2015-05-02T22:00:00-07:00</updated><author><name>TheScienceHobbyist</name></author><id>tag:jmollins.github.io,2015-04-16:house-monitor.html</id><summary type="html">&lt;p&gt;Summary: Building a house monitor with python, openCV, and cloud storage.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>small science Big Adventures</title><link href="https://smallsciencebigadventures.com/" rel="alternate"></link><link href="https://smallsciencebigadventures.com/feeds/programming.atom.xml" rel="self"></link><id>https://smallsciencebigadventures.com/</id><updated>2015-05-02T22:00:00-07:00</updated><entry><title>House Monitor</title><link href="https://smallsciencebigadventures.com/house-monitor.html" rel="alternate"></link><updated>2015-05-02T22:00:00-07:00</updated><author><name>jmollins</name></author><id>tag:smallsciencebigadventures.com,2015-04-16:house-monitor.html</id><summary type="html">&lt;p&gt;Summary: Building a house monitor with python, openCV, and cloud storage.&lt;/p&gt;
 &lt;p&gt;I wanted an easy way to check on my house when I was away, and since it can get cold in the winter I also wanted to keep track of the house temperature.&lt;/p&gt;
 &lt;p&gt;I found that the simplest way to so this was to:&lt;/p&gt;
 &lt;ol&gt;
@@ -8,7 +8,7 @@
 &lt;li&gt;add the time and temperature to the image as text, and&lt;/li&gt;
 &lt;li&gt;save the image to my cloud synced folder that I can view when I am away.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;I have an Arduino taking the house temperature every 20 minutes (&lt;a href="https://jmollins.github.io/arduino-temp-sensor.html"&gt;see the Arduino Programming post&lt;/a&gt;) and then saving it to my Thinspeak account. The house monitor script grabs the last temperature reading saved to Thingspeak.&lt;/p&gt;
+&lt;p&gt;I have an Arduino taking the house temperature every 20 minutes (&lt;a href="https://smallsciencebigadventures.com/arduino-temp-sensor.html"&gt;see the Arduino Programming post&lt;/a&gt;) and then saving it to my Thinspeak account. The house monitor script grabs the last temperature reading saved to Thingspeak.&lt;/p&gt;
 &lt;h2&gt;The Code&lt;/h2&gt;
 &lt;p&gt;I used &lt;a href="https://www.python.org/"&gt;python&lt;/a&gt; to write the script and &lt;a href="http://opencv.org/"&gt;openCV&lt;/a&gt; to manage the webcam and writing text to the image.&lt;/p&gt;
 &lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt; 1
@@ -152,7 +152,7 @@
 &lt;span class="na"&gt;filename&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s"&gt;Camera&lt;/span&gt;
 &lt;span class="na"&gt;filecount&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s"&gt;0&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><category term="Python"></category><category term="Electronics"></category></entry><entry><title>Arduino Programming</title><link href="https://jmollins.github.io/arduino-temp-sensor.html" rel="alternate"></link><updated>2015-03-17T10:00:00-07:00</updated><author><name>TheScienceHobbyist</name></author><id>tag:jmollins.github.io,2015-03-17:arduino-temp-sensor.html</id><summary type="html">&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><category term="Python"></category><category term="Electronics"></category></entry><entry><title>Arduino Programming</title><link href="https://smallsciencebigadventures.com/arduino-temp-sensor.html" rel="alternate"></link><updated>2015-03-17T10:00:00-07:00</updated><author><name>jmollins</name></author><id>tag:smallsciencebigadventures.com,2015-03-17:arduino-temp-sensor.html</id><summary type="html">&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
 &lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
 was about time to get it working again. I figured I would get it to do something
 simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
