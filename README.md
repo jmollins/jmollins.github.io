@@ -1,2 +1,2 @@
-# thesciencehobbyist.github.io
-See the site here https://jmollins.github.io
+# tjmollins.github.io
+See the site here http://smallsciencebigadventures.com
