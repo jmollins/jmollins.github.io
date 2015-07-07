@@ -1,0 +1,3405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>small science Big Adventures</title><link>localhost:8000/</link><description></description><atom:link href="localhost:8000/feeds/thesciencehobbyist.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 02 Mar 2012 14:01:01 -0800</lastBuildDate><item><title>Archives - The Science Hobbyist</title><link>localhost:8000/archives-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+    &lt;section id="content"&gt;
+        &lt;h1&gt;Archives for The Science Hobbyist&lt;/h1&gt;
+        &lt;div id="archives"&gt;
+                &lt;p&gt;
+                    &lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-04-14T10:00:00-07:00"&gt;April 14, 2015&lt;/time&gt;&lt;/span&gt;
+                    &lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;
+                &lt;/p&gt;
+                &lt;p&gt;
+                    &lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-03-17T10:00:00-07:00"&gt;March 17, 2015&lt;/time&gt;&lt;/span&gt;
+                    &lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;
+                &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/archives-the-science-hobbyist.html</guid></item><item><title>Arduino Programming - The Science Hobbyist</title><link>localhost:8000/arduino-programming-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li class="active"&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+    &lt;section id="content"&gt;
+        &lt;article&gt;
+            &lt;header class="page-header"&gt;
+                &lt;h1&gt;
+                    &lt;a href="http://localhost:8000/arduino-temp-sensor.html" rel="bookmark" title="Permalink to Arduino Programming"&gt;
+                        Arduino Programming
+                    &lt;/a&gt;
+                &lt;/h1&gt;
+            &lt;/header&gt;
+            &lt;div class="entry-content"&gt;
+                &lt;div class="panel"&gt;
+                    &lt;div class="panel-body"&gt;
+&lt;footer class="post-info"&gt;
+    &lt;span class="label label-default"&gt;Date&lt;/span&gt;
+    &lt;span class="published"&gt;
+        &lt;i class="fa fa-calendar"&gt;&lt;/i&gt;&lt;time datetime="2015-03-17T10:00:00-07:00"&gt; March 17, 2015&lt;/time&gt;
+    &lt;/span&gt;
+
+
+
+&lt;span class="label label-default"&gt;Tags&lt;/span&gt;
+	&lt;a href="http://localhost:8000/tag/arduino.html"&gt;Arduino&lt;/a&gt;
+        /
+	&lt;a href="http://localhost:8000/tag/python.html"&gt;python&lt;/a&gt;
+        /
+	&lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;ThingSpeak&lt;/a&gt;
+    
+&lt;/footer&gt;&lt;!-- /.post-info --&gt;                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;The Arduino&lt;/h1&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 (10bit) to a value between 0 and 5V (Vsupply).&lt;/li&gt;
+&lt;li&gt;Convert that voltage to temperature based on the LM35 outputing 10mV/C.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;    &lt;span class="c"&gt;/* Reads the voltage output from an LM35&lt;/span&gt;
+&lt;span class="c"&gt;    and converts the voltage to a temperature C.&lt;/span&gt;
+&lt;span class="c"&gt;    The analog input: 0 - 1023&lt;/span&gt;
+&lt;span class="c"&gt;    Vs: 5V&lt;/span&gt;
+&lt;span class="c"&gt;    LM35 output: 10mV/C&lt;/span&gt;
+&lt;span class="c"&gt;    */&lt;/span&gt;
+
+    &lt;span class="nt"&gt;int&lt;/span&gt; &lt;span class="nt"&gt;inputPin&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nt"&gt;A0&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;     &lt;span class="o"&gt;//&lt;/span&gt; &lt;span class="nt"&gt;LM35&lt;/span&gt; &lt;span class="nt"&gt;output&lt;/span&gt; &lt;span class="nt"&gt;connected&lt;/span&gt; &lt;span class="nt"&gt;to&lt;/span&gt; &lt;span class="nt"&gt;Analog&lt;/span&gt; &lt;span class="nt"&gt;pin0&lt;/span&gt;
+    &lt;span class="nt"&gt;int&lt;/span&gt; &lt;span class="nt"&gt;inputValue&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nt"&gt;0&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;    &lt;span class="o"&gt;//&lt;/span&gt; &lt;span class="nt"&gt;analog&lt;/span&gt; &lt;span class="nt"&gt;sensor&lt;/span&gt; &lt;span class="nt"&gt;value&lt;/span&gt; &lt;span class="nt"&gt;0&lt;/span&gt; &lt;span class="nt"&gt;to&lt;/span&gt; &lt;span class="nt"&gt;1023&lt;/span&gt;
+    &lt;span class="nt"&gt;float&lt;/span&gt; &lt;span class="nt"&gt;temperature&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nt"&gt;0&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="nt"&gt;initialize&lt;/span&gt; &lt;span class="nt"&gt;temperature&lt;/span&gt; &lt;span class="nt"&gt;variable&lt;/span&gt;
+    &lt;span class="nt"&gt;char&lt;/span&gt; &lt;span class="nt"&gt;tempValue&lt;/span&gt;&lt;span class="cp"&gt;[]&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+
+    &lt;span class="nt"&gt;void&lt;/span&gt; &lt;span class="nt"&gt;setup&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+      &lt;span class="o"&gt;//&lt;/span&gt; &lt;span class="n"&gt;inputPin&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;INPUT&lt;/span&gt;
+      &lt;span class="n"&gt;pinMode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;inputPin&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;INPUT&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;  
+      &lt;span class="n"&gt;Serial&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;begin&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;9600&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+
+    &lt;span class="p"&gt;}&lt;/span&gt;
+
+    &lt;span class="nt"&gt;void&lt;/span&gt; &lt;span class="nt"&gt;loop&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+      &lt;span class="o"&gt;//&lt;/span&gt; &lt;span class="n"&gt;read&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;voltage&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;LM35&lt;/span&gt;
+      &lt;span class="n"&gt;inputValue&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;analogRead&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;inputPin&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+
+      &lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;map&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;analog&lt;/span&gt; &lt;span class="n"&gt;reading&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;LM35&lt;/span&gt; &lt;span class="n"&gt;based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;Vs&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;5&lt;/span&gt;&lt;span class="n"&gt;V&lt;/span&gt; &lt;span class="n"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Vin&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="m"&gt;10&lt;/span&gt;&lt;span class="n"&gt;mV&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;C&lt;/span&gt;
+      &lt;span class="n"&gt;temperature&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;inputValue&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="m"&gt;1023&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="m"&gt;500&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+      &lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;USB&lt;/span&gt;
+      &lt;span class="n"&gt;Serial&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Temperature: &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+      &lt;span class="n"&gt;Serial&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;println&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;temperature&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+
+    &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The output from the Arduino looks like:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;Temperature&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;25&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;Read the Arduino output and send to ThingSpeak&lt;/h1&gt;
+&lt;p&gt;The output from the Arduino was read by a python script on my laptop. It received the temperature
+ from the Arduino and then posted it to my account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt;. You could just as easily write the
+ temperatures to a file, but I like how easy it is to get a nice chart from ThingSpeak.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;    &lt;span class="c"&gt;#!/usr/bin/env python&lt;/span&gt;
+    &lt;span class="c"&gt;# -*- coding: utf-8 -*-&lt;/span&gt;
+    &lt;span class="c"&gt;#&lt;/span&gt;
+
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;serial&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;re&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;requests&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;ConfigParser&lt;/span&gt;
+
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;sendToThingSpeak&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;temperature&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;api_key&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;Parameters&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;key&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;api_key&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;field1&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;temperature&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;group&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)}&lt;/span&gt;
+        &lt;span class="n"&gt;response&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;requests&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;post&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https://api.thingspeak.com/update&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;params&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;Parameters&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;response&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+
+    &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Starting ...&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;config&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;ConfigParser&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ConfigParser&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="n"&gt;config&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;read&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;config.cfg&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="n"&gt;api_key&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;config&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;default&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;api_key&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="c"&gt;#Search pattern for the temperature value&lt;/span&gt;
+    &lt;span class="n"&gt;dataForm&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s"&gt;r&amp;#39;Temperature: (\d+\.\d*)&amp;#39;&lt;/span&gt;
+    &lt;span class="n"&gt;repeat&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="bp"&gt;True&lt;/span&gt;
+
+    &lt;span class="c"&gt;#set up the USB port&lt;/span&gt;
+    &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Setting up serial ...&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;ser&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;serial&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Serial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;/dev/ttyUSB0&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;9600&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;timeout&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;None&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="k"&gt;while&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;repeat&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="c"&gt;#read in the temperature from the Arduino&lt;/span&gt;
+        &lt;span class="n"&gt;dataLine&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;ser&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;readline&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;dataLine&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="c"&gt;#if the reading was successful&lt;/span&gt;
+            &lt;span class="n"&gt;temperature&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;re&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;search&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;dataForm&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;dataLine&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c"&gt;#extract the temperature from the reading&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;temperature&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+                &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="n"&gt;temperature&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;group&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+                &lt;span class="n"&gt;repeat&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="bp"&gt;False&lt;/span&gt;
+                &lt;span class="n"&gt;response&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;sendToThingSpeak&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;temperature&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;api_key&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+                &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="n"&gt;response&lt;/span&gt;
+    &lt;span class="n"&gt;serial&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;close&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And the config.cfg file is just&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;    [default]
+    api_key:your thingspeak key
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I used crontab to run the python script every 20 minutes. Since I used a config file to keep my
+api_key I had to get crontab cd into the python scripts directory then run the script. As well since the script
+prints output, the output needs to be directed to a log file.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;crontab
+
+    */20 * * * * cd path/to/python/script.py %% ./pythonscript.py &amp;gt;&amp;gt; script.log
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I then can call the chart from thingspeak and place it on my page using&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;    &lt;span class="nt"&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class="na"&gt;width=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;620&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;height=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;370&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;style=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;border: 1px solid #cccccc;&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https://thingspeak.com/channels/8220/charts/1?width=600&amp;amp;height=350&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The values are then plotted using the ThingSpeaks chart api.&lt;/p&gt;
+&lt;iframe width="620" height="370" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/8220/charts/1?width=600&amp;amp;height=350&amp;amp;dynamic=true"&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
+            &lt;!-- /.entry-content --&gt;
+        &lt;/article&gt;
+    &lt;/section&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/arduino-programming-the-science-hobbyist.html</guid><category>Arduino</category><category>python</category><category>ThingSpeak</category></item><item><title>Arduino - The Science Hobbyist</title><link>localhost:8000/arduino-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;The Arduino&lt;/h1&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 ...&lt;/li&gt;&lt;/ol&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/arduino-temp-sensor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/arduino-the-science-hobbyist.html</guid><category>Arduino</category></item><item><title>Articles by Me - The Science Hobbyist</title><link>localhost:8000/articles-by-me-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="/category/python.html"&gt;Python&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="/my-super-post.html"&gt;No Title Yet&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Short version for index and feeds&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="/my-super-post.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, building, star gazing, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/publishing.html"&gt;
+                            publishing
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/pelican.html"&gt;
+                            pelican
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2010 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/articles-by-me-the-science-hobbyist.html</guid></item><item><title>Articles by TheScienceHobbyist - The Science Hobbyist</title><link>localhost:8000/articles-by-thesciencehobbyist-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a VLF solar monitor&lt;/p&gt;
+&lt;p&gt;Building a VLF solar monitor&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/vlf-solar-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;The Arduino&lt;/h1&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 ...&lt;/li&gt;&lt;/ol&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/arduino-temp-sensor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/articles-by-thesciencehobbyist-the-science-hobbyist.html</guid></item><item><title>Articles by TheScienceHobbyist - The Science Hobbyist</title><link>localhost:8000/articles-by-thesciencehobbyist-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="https://jmollins.github.io/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="https://jmollins.github.io/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="https://jmollins.github.io/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="https://jmollins.github.io/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="https://jmollins.github.io/house-monitor.html"&gt;House Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a house monitor with python, openCV, and cloud storage.&lt;/p&gt;
+&lt;p&gt;I wanted an easy way to check on my house when I was away, and since it can get cold in the winter I also wanted to keep track of the house temperature.&lt;/p&gt;
+&lt;p&gt;I found that the simplest way to so this was to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;capture images of a room in my house,&lt;/li&gt;
+&lt;li&gt;read the temperature of the house,&lt;/li&gt;
+&lt;li&gt;add the time and temperature to the image as text, and&lt;/li&gt;
+&lt;li&gt;save the image to my cloud synced folder that I can view when I am away.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I have an Arduino ...&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="https://jmollins.github.io/house-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="https://jmollins.github.io/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a VLF solar monitor&lt;/p&gt;
+&lt;p&gt;I am in the process of building a VLF solar monitor based on &lt;a href="http://www.aavso.org/improved-gyrator-tuned-vlf-receiver)" title="AAVSO"&gt;the gyrator II from the AAVSO.&lt;/a&gt;&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="https://jmollins.github.io/vlf-solar-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="https://jmollins.github.io/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;The Arduino&lt;/h2&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 ...&lt;/li&gt;&lt;/ol&gt;
+                    &lt;a class="btn btn-default btn-xs" href="https://jmollins.github.io/arduino-temp-sensor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About &lt;a href="mailto:thesciencehobbyist@gmail.com"&gt;TheScienceHobbyist&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+        Programming, designing, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="https://jmollins.github.io/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-1"&gt;
+                        &lt;a href="https://jmollins.github.io/tag/python.html"&gt;
+                            Python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-1"&gt;
+                        &lt;a href="https://jmollins.github.io/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="https://jmollins.github.io/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="https://jmollins.github.io/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="https://jmollins.github.io/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+    &lt;!--     &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist thesciencehobbyist@gmail.com --&gt;
+        &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist | &lt;a href="mailto:thesciencehobbyist@gmail.com"&gt;Email me!&lt;/a&gt; |
+            Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt; |
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt; |
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="https://jmollins.github.io/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="https://jmollins.github.io/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="https://jmollins.github.io/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="https://jmollins.github.io/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/articles-by-thesciencehobbyist-the-science-hobbyist.html</guid></item><item><title>Astronomy - The Science Hobbyist</title><link>localhost:8000/astronomy-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a VLF solar monitor&lt;/p&gt;
+&lt;p&gt;Building a VLF solar monitor&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/vlf-solar-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/astronomy-the-science-hobbyist.html</guid><category>Astronomy</category></item><item><title>Astronomy - The Science Hobbyist</title><link>localhost:8000/astronomy-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li class="active"&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a VLF solar monitor&lt;/p&gt;
+&lt;p&gt;Building a VLF solar monitor&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/vlf-solar-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/astronomy-the-science-hobbyist.html</guid><category>Astronomy</category></item><item><title>Authors - The Science Hobbyist</title><link>localhost:8000/authors-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+    &lt;h1&gt;Authors on The Science Hobbyist&lt;/h1&gt;
+        &lt;li&gt;&lt;a href="http://localhost:8000/author/thesciencehobbyist.html"&gt;TheScienceHobbyist&lt;/a&gt; (2)&lt;/li&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/authors-the-science-hobbyist.html</guid></item><item><title>Blogging - The Science Hobbyist</title><link>localhost:8000/blogging-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li class="active"&gt;
+                            &lt;a href="/category/.html"&gt;&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="/First-Post.html"&gt;The first&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: A short introduction&lt;/p&gt;
+&lt;p&gt;This is a place to document and share some of the activities that I 
+do and the ideas that I have.&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="/First-Post.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, building, star gazing, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/blogging.html"&gt;
+                            Blogging
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/.html"&gt;
+                            
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/blogging-the-science-hobbyist.html</guid><category>Blogging</category></item><item><title>Blogging - The Science Hobbyist</title><link>localhost:8000/blogging-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li class="active"&gt;
+                            &lt;a href="/category/blogging.html"&gt;Blogging&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="/category/python.html"&gt;Python&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="/my-super-post-3.html"&gt;Try Plotting&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Short&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="/my-super-post-3.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        When I get the chance I like to do some programming, building, star gazing, cycling, and playing the clasical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-1"&gt;
+                        &lt;a href="/tag/pelican.html"&gt;
+                            pelican
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-2"&gt;
+                        &lt;a href="/tag/publishing.html"&gt;
+                            publishing
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/media.html"&gt;
+                            media
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/blogging-the-science-hobbyist.html</guid><category>Blogging</category></item><item><title>Categories - The Science Hobbyist</title><link>localhost:8000/categories-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+    &lt;section id="categories"&gt;
+        &lt;h1&gt;All Categories for The Science Hobbyist&lt;/h1&gt;
+        &lt;div class="panel-group" id="accordion"&gt;
+            &lt;div class="panel panel-default"&gt;
+                &lt;div class="panel-heading"&gt;
+                    &lt;h4 class="panel-title"&gt;
+                        &lt;a data-toggle="collapse" data-parent="#accordion" href="#collapse-astronomy"&gt;Astronomy &lt;span class="badge pull-right"&gt;1&lt;/span&gt;&lt;/a&gt;
+                    &lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div id="collapse-astronomy" class="panel-collapse collapse"&gt;
+                    &lt;div class="panel-body"&gt;
+                        &lt;p&gt;&lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-04-14T10:00:00-07:00"&gt;April 14, 2015&lt;/time&gt;&lt;/span&gt; &lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="panel panel-default"&gt;
+                &lt;div class="panel-heading"&gt;
+                    &lt;h4 class="panel-title"&gt;
+                        &lt;a data-toggle="collapse" data-parent="#accordion" href="#collapse-programming"&gt;Programming &lt;span class="badge pull-right"&gt;1&lt;/span&gt;&lt;/a&gt;
+                    &lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div id="collapse-programming" class="panel-collapse collapse"&gt;
+                    &lt;div class="panel-body"&gt;
+                        &lt;p&gt;&lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-03-17T10:00:00-07:00"&gt;March 17, 2015&lt;/time&gt;&lt;/span&gt; &lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;/section&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/categories-the-science-hobbyist.html</guid></item><item><title>Electronics - The Science Hobbyist</title><link>localhost:8000/electronics-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a VLF solar monitor&lt;/p&gt;
+&lt;p&gt;Building a VLF solar monitor&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/vlf-solar-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/electronics-the-science-hobbyist.html</guid><category>Electronics</category></item><item><title>media - The Science Hobbyist</title><link>localhost:8000/media-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="/category/blogging.html"&gt;Blogging&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="/category/python.html"&gt;Python&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="/my-super-post 2.html"&gt;My Second Try&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Short version for index and feeds&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="/my-super-post 2.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        When I get the chance I like to do some programming, building, star gazing, cycling, and playing the clasical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-1"&gt;
+                        &lt;a href="/tag/pelican.html"&gt;
+                            pelican
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-2"&gt;
+                        &lt;a href="/tag/publishing.html"&gt;
+                            publishing
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/media.html"&gt;
+                            media
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/media-the-science-hobbyist.html</guid><category>media</category></item><item><title>pelican - The Science Hobbyist</title><link>localhost:8000/pelican-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="/category/python.html"&gt;Python&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="/my-super-post.html"&gt;No Title Yet&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Short version for index and feeds&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="/my-super-post.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, building, star gazing, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/publishing.html"&gt;
+                            publishing
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/pelican.html"&gt;
+                            pelican
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2010 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/pelican-the-science-hobbyist.html</guid><category>pelican</category></item><item><title>Programming - The Science Hobbyist</title><link>localhost:8000/programming-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li class="active"&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;The Arduino&lt;/h1&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 ...&lt;/li&gt;&lt;/ol&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/arduino-temp-sensor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/programming-the-science-hobbyist.html</guid><category>Programming</category></item><item><title>publishing - The Science Hobbyist</title><link>localhost:8000/publishing-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="/category/python.html"&gt;Python&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="/my-super-post.html"&gt;No Title Yet&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Short version for index and feeds&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="/my-super-post.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, building, star gazing, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/publishing.html"&gt;
+                            publishing
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/pelican.html"&gt;
+                            pelican
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2010 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/publishing-the-science-hobbyist.html</guid><category>publishing</category></item><item><title>python - The Science Hobbyist</title><link>localhost:8000/python-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;The Arduino&lt;/h1&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 ...&lt;/li&gt;&lt;/ol&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/arduino-temp-sensor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/python-the-science-hobbyist.html</guid><category>python</category></item><item><title>Python - The Science Hobbyist</title><link>localhost:8000/python-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li class="active"&gt;
+                            &lt;a href="/category/python.html"&gt;Python&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="/my-super-post.html"&gt;No Title Yet&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Short version for index and feeds&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="/my-super-post.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, building, star gazing, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/publishing.html"&gt;
+                            publishing
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="/tag/pelican.html"&gt;
+                            pelican
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2010 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/python-the-science-hobbyist.html</guid><category>Python</category></item><item><title>Tags - The Science Hobbyist</title><link>localhost:8000/tags-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+    &lt;section id="tags"&gt;
+        &lt;h1&gt;Tags for The Science Hobbyist&lt;/h1&gt;
+        &lt;div class="panel-group" id="accordion"&gt;            &lt;div class="panel panel-default"&gt;
+                &lt;div class="panel-heading"&gt;
+                    &lt;h4 class="panel-title"&gt;
+                        &lt;a data-toggle="collapse" data-parent="#accordion" href="#collapse-arduino"&gt;Arduino &lt;span class="badge pull-right"&gt;1&lt;/span&gt;&lt;/a&gt;
+                    &lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div id="collapse-arduino" class="panel-collapse collapse"&gt;
+                    &lt;div class="panel-body"&gt;
+                        &lt;p&gt;&lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-03-17T10:00:00-07:00"&gt;March 17, 2015&lt;/time&gt;&lt;/span&gt; &lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="panel panel-default"&gt;
+                &lt;div class="panel-heading"&gt;
+                    &lt;h4 class="panel-title"&gt;
+                        &lt;a data-toggle="collapse" data-parent="#accordion" href="#collapse-astronomy"&gt;Astronomy &lt;span class="badge pull-right"&gt;1&lt;/span&gt;&lt;/a&gt;
+                    &lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div id="collapse-astronomy" class="panel-collapse collapse"&gt;
+                    &lt;div class="panel-body"&gt;
+                        &lt;p&gt;&lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-04-14T10:00:00-07:00"&gt;April 14, 2015&lt;/time&gt;&lt;/span&gt; &lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="panel panel-default"&gt;
+                &lt;div class="panel-heading"&gt;
+                    &lt;h4 class="panel-title"&gt;
+                        &lt;a data-toggle="collapse" data-parent="#accordion" href="#collapse-electronics"&gt;Electronics &lt;span class="badge pull-right"&gt;1&lt;/span&gt;&lt;/a&gt;
+                    &lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div id="collapse-electronics" class="panel-collapse collapse"&gt;
+                    &lt;div class="panel-body"&gt;
+                        &lt;p&gt;&lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-04-14T10:00:00-07:00"&gt;April 14, 2015&lt;/time&gt;&lt;/span&gt; &lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="panel panel-default"&gt;
+                &lt;div class="panel-heading"&gt;
+                    &lt;h4 class="panel-title"&gt;
+                        &lt;a data-toggle="collapse" data-parent="#accordion" href="#collapse-python"&gt;python &lt;span class="badge pull-right"&gt;1&lt;/span&gt;&lt;/a&gt;
+                    &lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div id="collapse-python" class="panel-collapse collapse"&gt;
+                    &lt;div class="panel-body"&gt;
+                        &lt;p&gt;&lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-03-17T10:00:00-07:00"&gt;March 17, 2015&lt;/time&gt;&lt;/span&gt; &lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class="panel panel-default"&gt;
+                &lt;div class="panel-heading"&gt;
+                    &lt;h4 class="panel-title"&gt;
+                        &lt;a data-toggle="collapse" data-parent="#accordion" href="#collapse-thingspeak"&gt;ThingSpeak &lt;span class="badge pull-right"&gt;1&lt;/span&gt;&lt;/a&gt;
+                    &lt;/h4&gt;
+                &lt;/div&gt;
+                &lt;div id="collapse-thingspeak" class="panel-collapse collapse"&gt;
+                    &lt;div class="panel-body"&gt;
+                        &lt;p&gt;&lt;span class="categories-timestamp"&gt;&lt;time datetime="2015-03-17T10:00:00-07:00"&gt;March 17, 2015&lt;/time&gt;&lt;/span&gt; &lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;/section&gt;
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/tags-the-science-hobbyist.html</guid></item><item><title>The Science Hobbyist</title><link>localhost:8000/the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;style&gt;
+	#banner{
+	    background-image:url("http://localhost:8000/images/banner.png");
+	}
+&lt;/style&gt;
+
+&lt;div id="banner"&gt;
+	&lt;div class="container"&gt;
+		&lt;div class="copy"&gt;
+			&lt;h1&gt;The Science Hobbyist&lt;/h1&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a VLF solar monitor&lt;/p&gt;
+&lt;p&gt;Building a VLF solar monitor&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/vlf-solar-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;The Arduino&lt;/h1&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 ...&lt;/li&gt;&lt;/ol&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/arduino-temp-sensor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/the-science-hobbyist.html</guid></item><item><title>ThingSpeak - The Science Hobbyist</title><link>localhost:8000/thingspeak-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;The Arduino&lt;/h1&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 ...&lt;/li&gt;&lt;/ol&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/arduino-temp-sensor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/thingspeak-the-science-hobbyist.html</guid><category>ThingSpeak</category></item><item><title>VLF Solar Monitor - The Science Hobbyist</title><link>localhost:8000/vlf-solar-monitor-the-science-hobbyist.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+The Science Hobbyist            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li class="active"&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+    &lt;section id="content"&gt;
+        &lt;article&gt;
+            &lt;header class="page-header"&gt;
+                &lt;h1&gt;
+                    &lt;a href="http://localhost:8000/vlf-solar-monitor.html" rel="bookmark" title="Permalink to VLF Solar Monitor"&gt;
+                        VLF Solar Monitor
+                    &lt;/a&gt;
+                &lt;/h1&gt;
+            &lt;/header&gt;
+            &lt;div class="entry-content"&gt;
+                &lt;div class="panel"&gt;
+                    &lt;div class="panel-body"&gt;
+&lt;footer class="post-info"&gt;
+    &lt;span class="label label-default"&gt;Date&lt;/span&gt;
+    &lt;span class="published"&gt;
+        &lt;i class="fa fa-calendar"&gt;&lt;/i&gt;&lt;time datetime="2015-04-14T10:00:00-07:00"&gt; April 14, 2015&lt;/time&gt;
+    &lt;/span&gt;
+
+
+
+&lt;span class="label label-default"&gt;Tags&lt;/span&gt;
+	&lt;a href="http://localhost:8000/tag/astronomy.html"&gt;Astronomy&lt;/a&gt;
+        /
+	&lt;a href="http://localhost:8000/tag/electronics.html"&gt;Electronics&lt;/a&gt;
+    
+&lt;/footer&gt;&lt;!-- /.post-info --&gt;                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;p&gt;Summary: Building a VLF solar monitor&lt;/p&gt;
+&lt;p&gt;Building a VLF solar monitor&lt;/p&gt;
+            &lt;/div&gt;
+            &lt;!-- /.entry-content --&gt;
+        &lt;/article&gt;
+    &lt;/section&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About TheScienceHobbyist&lt;/strong&gt;&lt;br /&gt;
+        Programming, creating, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/thesciencehobbyist"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+         &lt;div class="col-xs-10"&gt;&amp;copy; 2015 TheScienceHobbyist
+            &amp;middot; Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt;,
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt;,
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">TheScienceHobbyist</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/vlf-solar-monitor-the-science-hobbyist.html</guid><category>Astronomy</category><category>Electronics</category></item></channel></rss>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>small science Big Adventures</title><link>localhost:8000/</link><description></description><atom:link href="localhost:8000/feeds/jmollins.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 02 Mar 2012 14:01:01 -0800</lastBuildDate><item><title>Articles by jmollins - small science Big Adventures</title><link>localhost:8000/articles-by-jmollins-small-science-big-adventures.html</link><description>
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+	&lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="http://localhost:8000/" class="navbar-brand"&gt;
+small science Big Adventures            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/astronomy.html"&gt;Astronomy&lt;/a&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                            &lt;a href="http://localhost:8000/category/programming.html"&gt;Programming&lt;/a&gt;
+                        &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;ul class="nav navbar-nav navbar-right"&gt;
+              &lt;li&gt;&lt;a href="http://localhost:8000/archives.html"&gt;&lt;i class="fa fa-th-list"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Archives&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- End Banner --&gt;
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-sm-9"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/trinket-with-linux.html"&gt;Getting the Adafruit trinket working with Linux&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Setting up a linux computer to program a adafruit trinket&lt;/p&gt;
+&lt;p&gt;I recently purchased an &lt;a href="https://learn.adafruit.com/introducing-trinket/introduction"&gt;Adafruit tinket&lt;/a&gt; from &lt;a href="http://www.bc-robotics.com/"&gt;BC Robotics&lt;/a&gt; and I had looking forward to using the small microcontroller in some 
+smaller projects. However I found out that since the device implements USB in software rather than with a dedicated chip, my linux computer had a 
+hard time recognizing the trinket.&lt;/p&gt;
+&lt;h3&gt;Getting linux to recognize the trinket&lt;/h3&gt;
+&lt;p&gt;The first problem was that when the trinket was plugged in it did not show up as a USB device in /dev.
+Running &lt;code&gt;lsusb&lt;/code&gt; and checking &lt;code&gt;dmesg&lt;/code&gt; showed that the device was ...&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/trinket-with-linux.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/house-monitor.html"&gt;House Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a house monitor with python, openCV, and cloud storage.&lt;/p&gt;
+&lt;p&gt;I wanted an easy way to check on my house when I was away, and since it can get cold in the winter I also wanted to keep track of the house temperature.&lt;/p&gt;
+&lt;p&gt;I found that the simplest way to so this was to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;capture images of a room in my house,&lt;/li&gt;
+&lt;li&gt;read the temperature of the house,&lt;/li&gt;
+&lt;li&gt;add the time and temperature to the image as text, and&lt;/li&gt;
+&lt;li&gt;save the image to my cloud synced folder that I can view when I am away.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I have an Arduino ...&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/house-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/vlf-solar-monitor.html"&gt;VLF Solar Monitor&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Building a VLF solar monitor&lt;/p&gt;
+&lt;p&gt;I am in the process of building a VLF solar monitor based on &lt;a href="http://www.aavso.org/improved-gyrator-tuned-vlf-receiver)" title="AAVSO"&gt;the gyrator II from the AAVSO.&lt;/a&gt;&lt;/p&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/vlf-solar-monitor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="http://localhost:8000/arduino-temp-sensor.html"&gt;Arduino Programming&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Summary: Getting the arduino to read the temperature&lt;/p&gt;
+&lt;p&gt;My Arduino has been sitting on my desk for some time and I thought it
+was about time to get it working again. I figured I would get it to do something
+simple: read the temperature from an &lt;a href="http://www.ti.com/product/lm35"&gt;LM35 sensor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My setup consists of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An &lt;a href="http://arduino.cc/en/Main/arduinoBoardDuemilanove"&gt;Arduino Duemilenove&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An &lt;a href="http://www.ti.com/product/lm35"&gt;LM35&lt;/a&gt; connected to the Arduino&lt;/li&gt;
+&lt;li&gt;A Computer running &lt;a href="http://www.linuxmint.com"&gt;Linux Mint&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;An account at &lt;a href="http://www.thingspeak.com"&gt;ThingSpeak&lt;/a&gt; for storing and plotting the data.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;The Arduino&lt;/h2&gt;
+&lt;p&gt;To get the temperature reading from the LM35 I programmed the arduino to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Read from the analog port (A0).&lt;/li&gt;
+&lt;li&gt;Convert the 0-1023 ...&lt;/li&gt;&lt;/ol&gt;
+                    &lt;a class="btn btn-default btn-xs" href="http://localhost:8000/arduino-temp-sensor.html"&gt;more ...&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+        &lt;div class="col-sm-3" id="sidebar"&gt;
+            &lt;aside&gt;
+&lt;div id="aboutme"&gt;
+    &lt;p&gt;
+        &lt;strong&gt;About &lt;a href="mailto:thesciencehobbyist@gmail.com"&gt;jmollins&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+        Programming, designing, astronomy, cycling, and the classical guitar.
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;section class="well well-sm"&gt;
+    &lt;ul class="list-group list-group-flush"&gt;
+            &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-home fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Social&lt;/span&gt;&lt;/h4&gt;
+              &lt;ul class="list-group" id="social"&gt;
+                &lt;li class="list-group-item"&gt;&lt;a href="https://github.com/jmollins"&gt;&lt;i class="fa fa-github-square fa-lg"&gt;&lt;/i&gt; Github&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+
+
+
+            &lt;li class="list-group-item"&gt;&lt;a href="http://localhost:8000/"&gt;&lt;h4&gt;&lt;i class="fa fa-tags fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Tags&lt;/span&gt;&lt;/h4&gt;&lt;/a&gt;
+                &lt;ul class="list-group " id="tags"&gt;
+                    &lt;li class="list-group-item tag-1"&gt;
+                        &lt;a href="http://localhost:8000/tag/python.html"&gt;
+                            Python
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-1"&gt;
+                        &lt;a href="http://localhost:8000/tag/electronics.html"&gt;
+                            Electronics
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-1"&gt;
+                        &lt;a href="http://localhost:8000/tag/arduino.html"&gt;
+                            Arduino
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/programming.html"&gt;
+                            programming
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/astronomy.html"&gt;
+                            Astronomy
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                    &lt;li class="list-group-item tag-4"&gt;
+                        &lt;a href="http://localhost:8000/tag/thingspeak.html"&gt;
+                            ThingSpeak
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+    &lt;li class="list-group-item"&gt;&lt;h4&gt;&lt;i class="fa fa-external-link-square fa-lg"&gt;&lt;/i&gt;&lt;span class="icon-label"&gt;Links&lt;/span&gt;&lt;/h4&gt;
+      &lt;ul class="list-group" id="links"&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://getpelican.com/" target="_blank"&gt;
+                Pelican
+            &lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li class="list-group-item"&gt;
+            &lt;a href="http://python.org/" target="_blank"&gt;
+                Python.org
+            &lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+            &lt;/aside&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+    &lt;!--     &lt;div class="col-xs-10"&gt;&amp;copy; 2015 jmollins thesciencehobbyist@gmail.com --&gt;
+        &lt;div class="col-xs-10"&gt;&amp;copy; 2015 jmollins | &lt;a href="mailto:thesciencehobbyist@gmail.com"&gt;Email me!&lt;/a&gt; |
+            Powered by &lt;a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank"&gt;pelican-bootstrap3&lt;/a&gt; |
+            &lt;a href="http://docs.getpelican.com/" target="_blank"&gt;Pelican&lt;/a&gt; |
+            &lt;a href="http://getbootstrap.com" target="_blank"&gt;Bootstrap&lt;/a&gt;         &lt;/div&gt;
+         &lt;div class="col-xs-2"&gt;&lt;p class="pull-right"&gt;&lt;i class="fa fa-arrow-up"&gt;&lt;/i&gt; &lt;a href="#"&gt;Back to top&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="http://localhost:8000/theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="http://localhost:8000/theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="http://localhost:8000/theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+    &lt;script src="http://localhost:8000/theme/js/bodypadding.js"&gt;&lt;/script&gt;
+
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">jmollins</dc:creator><pubDate>Fri, 02 Mar 2012 14:01:01 -0800</pubDate><guid>tag:,2012-03-02:8000/articles-by-jmollins-small-science-big-adventures.html</guid></item></channel></rss>
